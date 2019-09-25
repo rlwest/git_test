@@ -1,1 +1,2 @@
-added as another part
+added the another part
+new part
